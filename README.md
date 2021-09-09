@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amik-Sen-Fun
+- 👀 I’m interested in Anime and Creating Softwares
+- 🌱 I’m currently learning React and Advanced DSA
+- 📫 You can reach me at : bongleesen@gmail.com
